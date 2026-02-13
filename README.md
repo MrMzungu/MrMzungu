@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-I am a trainer for K8s and beside oft that  I am holding the CKA Certification, currently preparing for CKS
+I am a trainer for K8s and beside oft that  I am holding the CKA Certification, currently preparing for KCSA / CKS
 
 Working in the training industry for over 20 years.
 <!---
